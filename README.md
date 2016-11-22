@@ -11,5 +11,5 @@ Jupyter quickstart: http://jupyter.readthedocs.io/en/latest/content-quickstart.h
 
 If you have more time, official python tutorial: https://docs.python.org/3/tutorial/
 
-A complete tutorial:
+If you have even more time, a complete tutorial:
 http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb
